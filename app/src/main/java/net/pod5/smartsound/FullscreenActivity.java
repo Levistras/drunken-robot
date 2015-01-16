@@ -23,7 +23,7 @@ public class FullscreenActivity extends Activity {
      * {@link #AUTO_HIDE_DELAY_MILLIS} milliseconds.
      */
 
-    private static final boolean TESTK = true;
+    private static final boolean TESTKPOOP = true;
 
     private static final boolean AUTO_HIDE = true;
 
